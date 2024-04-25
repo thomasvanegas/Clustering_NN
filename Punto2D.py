@@ -1,9 +1,10 @@
+#Importacion de librerias, paquetes y clases.
 import math
 
 class Punto2D:
 
     """
-        Class representing points in the XY plane (Cartesian)
+        Clase que representa puntos en el plano XY (Cartesiano)
     """
     def __init__(self, x:float, y:float):
         """
