@@ -1,0 +1,7 @@
+implementar  en python la estructura completa de un monticulo de mínima prioridad (MinPQ). 
+Debe tener los siguientes métodos: MinPQ(): Constructor,  MinPQ(int max): Crear una cola de minima prioridad de tamaño fijo, 
+MinPQ(a: list): Crear una cola de minima prioridad a partir de una lista de llaves, 
+insert(key): Agregar una llave a la cola de minima prioridad, 
+min(): Obtener la menor de las llaves en la cola de minima prioridad, 
+delMin(): Eliminar la menor llave y devolverla, isEmpty(): Verificar si la cola de minima prioridad esta vacia o no, 
+size()->int: Retorna el número de elementos en la cola.
